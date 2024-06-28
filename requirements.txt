@@ -1,0 +1,6 @@
+numpy
+pandas
+google-api-python-client
+streamlit
+requests
+streamlit-option-menu
